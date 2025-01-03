@@ -1,5 +1,3 @@
-# UcultureTechno
-
 # Uculture Techno Radio 🎧
 
 **Uculture Techno Radio** es una plataforma de streaming en vivo dedicada a la música electrónica, con un enfoque en techno, house y otros géneros afines. Disfruta de sets exclusivos, DJs internacionales y la mejor música electrónica en vivo.
